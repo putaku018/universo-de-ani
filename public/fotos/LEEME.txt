@@ -1,0 +1,10 @@
+Carpeta para las fotos personales de Ani.
+
+Ejemplos de nombres:
+- intro.jpg
+- secundario.jpg
+- viaje-1.jpg
+- ani-guitarra.jpg
+
+Después, en app/content.ts, escribí la ruta así:
+src: "/fotos/intro.jpg"
