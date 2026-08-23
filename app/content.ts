@@ -60,7 +60,7 @@ export const pageContent = {
         title: "Hay discusiones que nos hicieron más fuertes o no.",
         description: "Hay veces en la vida que uno aprende que no siempre puede ganar una pelea y esta es una de ellas, para mi siempre van a ser color miel.",
         icon: "☄",
-        image: { src: "/public/fotos/peleas.jpg", alt: "Recuerdo de nuestras peleas", placeholder: "agregar imagen" },
+        image: { src: "./fotos/peleas.jpg", alt: "Recuerdo de nuestras peleas", placeholder: "agregar imagen" },
       },
       {
         date: "Aventuras",
