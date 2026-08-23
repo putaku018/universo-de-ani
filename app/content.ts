@@ -72,7 +72,7 @@ export const pageContent = {
       {
         date: "Siempre",
         title: "Mi persona de confianza",
-        description: "Gracias por estas siempre para mi, sos con vos la vida son risas, auque me mande cagadas con tus mesas, siempre que estoy mal me escuchas y aconsejas, agradezco con cada fibra de mi ser tener a la mejor hermana y amiga que me puedo haber tocado en el mundo.",
+        description: "Gracias por estas siempre para mi, con vos la vida son risas, auque me mande cagadas con tus mesas, siempre que estoy mal me escuchas y aconsejas, agradezco con cada fibra de mi ser tener a la mejor hermana y amiga que me puedo haber tocado en el mundo.",
         icon: "♡",
         image: { src: "./fotos/per_conf.jpg", alt: "Foto de Ani y Tomi", placeholder: "agregar imagen" },
       },
@@ -88,7 +88,7 @@ export const pageContent = {
       ["Locura", "Sos la persona mas loca y divertida que conozco, a quien se le ocurre hacerme parar en cada kiosco/estacion de servicio para comprar franui, con la que nos subimos al techo de su casa a tocar la guitarra; nunca cambies esa locura que nos caracteriza."],
       ["Amabilidad", "Un corazón enorme, desde chicos te preocupaste por los animales, te cuestionaste el porque hacemos lo que hacemos y porque naturalizamos el maltrato la violencia y desidiste cambiarlo e inculcralo a tu alrededor, eso te hace ser auténtica."],
       ["Terquedad", "Bueno, creo que aca no es necesario explicar mucho, ¿no?."],
-      ["música", "Que decir de esto, La musica es lo que nos dio nuestra coneccion, es la que nos une; la que nos hace reir, llorar, bailar y cantar. Gracias por enseñarme a entender la musica y por compartir tus enseñansas conmigo."],
+      ["música", "Que decir de esto, La musica es lo que nos dio nuestra conexión, es la que nos une; la que nos hace reir, llorar, bailar y cantar. Gracias por enseñarme a entender la musica y por compartir tus enseñansas conmigo."],
       ["café", "La barista oficial de este universo, ¿tomamos un cafesito?."],
       ["aventura", "La proxima historia nos espera, todavia no esta definida, quien sabe si Roma, Barcelona o que destino sera pero lo unico que se es que si estamos juntos nada puede salir mal."],
     ],
